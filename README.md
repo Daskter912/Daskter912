@@ -1,7 +1,7 @@
 
 ![Header](./github-header-image.png)
 
-### En este repositorio encontras todo hacerca de los proyectos que he elaborado👋
+### En este repositorio encontras todo acerca de los proyectos en los que he trabajado👋
 
 
 <div id="header" align="center">
