@@ -8,7 +8,7 @@
 </div>
 
 ### Sobre mi 🤔
-###### Soy recien egresado de la carrera de Ing. Sistemas Computacionales
+###### Soy recien egresado de la carrera de Ing. Sistemas Computacionales en la Universidad Virtual del Estado de Guanajuato. Me considero una persona proactiva y con una gran capacidad para trabajar en equipo. Disfruto aprendiendo y aplicando nuevos conocimientos, lo que me permite adaptarme rápidamente a nuevas tecnologías y metodologías de trabajo. Además, poseo habilidades de comunicación efectiva, lo que facilita la colaboración y el entendimiento mutuo en un entorno de trabajo.
 
 
 
