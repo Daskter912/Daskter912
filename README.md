@@ -1,7 +1,7 @@
 
 ![Header](./github-header-image.png)
 
-#### En este repositorio encontraras los proyectos en los que he estado trabajando 
+#### En este repositorio encontraras los proyectos en los que he estado trabajando  😄
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/p42hAArwjb6ECeKRaD/giphy.gif?cid=790b7611oy48jd6nzlybhq61mjc3hzy1i6ao45dq0rrkyeem&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"/>
