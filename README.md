@@ -1,12 +1,22 @@
 
 ![Header](./github-header-image.png)
 
-### En este repositorio encontras todo acerca de los proyectos en los que he trabajado👋
+#### En este repositorio encontras todo acerca de los proyectos en los que he trabajado👋
+
 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/p42hAArwjb6ECeKRaD/giphy.gif?cid=790b7611oy48jd6nzlybhq61mjc3hzy1i6ao45dq0rrkyeem&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"/>
 </div>
+
+### Sobre mi 🤔
+###### Soy recien egresado de la carrera de Ing. Sistemas Computacionales
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daskter912&layout=compact)
+
+
 
 
 
