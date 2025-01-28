@@ -7,14 +7,6 @@
   <img src="https://media.giphy.com/media/p42hAArwjb6ECeKRaD/giphy.gif?cid=790b7611oy48jd6nzlybhq61mjc3hzy1i6ao45dq0rrkyeem&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"/>
 </div>
 
-### Sobre mi 🤔
-###### Soy recien egresado de la carrera de Ing. Sistemas Computacionales en la Universidad Virtual del Estado de Guanajuato. Me considero una persona proactiva y con una gran capacidad para trabajar en equipo. Disfruto aprendiendo y aplicando nuevos conocimientos, lo que me permite adaptarme rápidamente a nuevas tecnologías y metodologías de trabajo. Además, poseo habilidades de comunicación efectiva, lo que facilita la colaboración y el entendimiento mutuo en un entorno de trabajo.
-
-
-
-
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daskter912&layout=compact)
 
